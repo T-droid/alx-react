@@ -1,0 +1,14 @@
+
+.App-body {
+  height: 67vh;
+  gap: 5px;
+  padding: 1rem;
+  border-bottom: 5px solid red;
+}
+
+.Header-notification {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 5px solid red;
+  padding: 1rem;
+}

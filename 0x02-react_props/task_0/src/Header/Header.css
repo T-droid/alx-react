@@ -1,0 +1,15 @@
+.App-header {
+    display: flex;
+    padding: 1rem;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .App-header img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .App-header h1 {
+    color: red;
+  }

@@ -1,0 +1,13 @@
+.Notifications {
+    border: 5px dotted red;
+    padding: 1rem;
+}
+
+.notification-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-item {
+    align-self: flex-end;
+}
